@@ -1,0 +1,8 @@
+This is a sample text file for testing.
+It contains some lines of text with the word "search" in it.
+This line does not have the search term.
+Another line with the search term.
+Here's a line without it.
+And another line with the search term.
+The end.
+
